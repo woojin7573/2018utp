@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable-v21/app_widget_background.xml" value="0.253" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.28" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable/ic_baseline_mail_outline_24.xml" value="0.13" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.28" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable/ic_baseline_textsms_24.xml" value="0.254" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.13" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable/listbutton.xml" value="0.193" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/drawable/rectangle_style.xml" value="0.2565" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/activity_reservation.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/activity_reservation2.xml" value="0.3578125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_course.xml" value="0.2484375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_festival.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_festival2.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_mypage.xml" value="0.3578125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_reservation.xml" value="0.17603850050658562" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_reservationcheck.xml" value="0.1403985507246377" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_resevation.xml" value="0.3578125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_sittinglist.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/fragment_statistics.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/notice.xml" value="0.2484375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/layout/reservation.xml" value="0.2484375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/2018utp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

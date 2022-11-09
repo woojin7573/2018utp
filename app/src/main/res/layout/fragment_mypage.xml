@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context=".ReservationFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="마이페이지"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingRight="10dp"></LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="253dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:src="@drawable/ic_baseline_person_pin_24"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp" />
+    <android.widget.TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="신우진님 환영합니다!"
+        android:textColor="@color/white"
+        android:textSize="22dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingRight="10dp"></LinearLayout>
+
+    <android.widget.Button
+        android:layout_width="280dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:text="내 정보"
+        android:textStyle="bold"
+        android:textSize="18dp"/>
+
+    <android.widget.Button
+        android:layout_width="280dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:text="주문내역"
+        android:textStyle="bold"
+        android:textSize="18dp"/>
+
+    <android.widget.Button
+        android:layout_width="280dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:text="고객센터"
+        android:textStyle="bold"
+        android:textSize="18dp"/>
+
+    <android.widget.Button
+        android:layout_width="280dp"
+        android:layout_height="63dp"
+        android:layout_gravity="center"
+        android:text="로그아웃"
+        android:textStyle="bold"
+        android:textSize="18dp"/>
+
+
+
+</LinearLayout>
